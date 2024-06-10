@@ -154,8 +154,14 @@
          padding: 1rem 1rem 2rem 1rem;
      }
 
+     .steps {
+        margin: 0;
+     }
+
      .why-us {
         background-color: #464646;
+        padding-top: 50px;
+        margin-bottom: 0;
      }
  
  }
